@@ -1,0 +1,797 @@
+2024-12-11 14:34:17 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Window size set to 800x600 and layout set.
+2024-12-11 14:34:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Window initialized.
+2024-12-11 14:34:17 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Control panel added to window.
+2024-12-11 14:34:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Control panel initialized.
+2024-12-11 14:34:17 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Graph panel initialized and added.
+2024-12-11 14:34:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Graph panel initialized.
+2024-12-11 14:34:17 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Result panel added to window.
+2024-12-11 14:34:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Result panel initialized.
+2024-12-11 14:34:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Action listeners set.
+2024-12-11 16:15:04 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Window size set to 800x600 and layout set.
+2024-12-11 16:15:04 [AWT-EventQueue-0] INFO  org.example.GraphApp - Window initialized.
+2024-12-11 16:15:04 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Control panel added to window.
+2024-12-11 16:15:04 [AWT-EventQueue-0] INFO  org.example.GraphApp - Control panel initialized.
+2024-12-11 16:15:04 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Graph panel initialized and added.
+2024-12-11 16:15:04 [AWT-EventQueue-0] INFO  org.example.GraphApp - Graph panel initialized.
+2024-12-11 16:15:04 [AWT-EventQueue-0] DEBUG org.example.GraphApp - Result panel added to window.
+2024-12-11 16:15:04 [AWT-EventQueue-0] INFO  org.example.GraphApp - Result panel initialized.
+2024-12-11 16:15:04 [AWT-EventQueue-0] INFO  org.example.GraphApp - Action listeners set.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphApp - Generate Graph button clicked.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Initializing GraphModel with 5 nodes and 2 loops.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate edges and loops.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate ribs.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 1 to node 2.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 3 to node 2.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 4 to node 2.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 4 to node 1.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating ribs.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate loops.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 2.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 0.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating loops.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating edges and loops.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - GraphModel initialization complete.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - GraphView initialized with model containing 5 nodes.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphApp - Graph generated with 5 nodes and 2 loops.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Starting to draw graph with width=784 and height=425.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate nodes.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 1 positioned at (533, 212).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 2 positioned at (435, 346).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 3 positioned at (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 4 positioned at (277, 129).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 5 positioned at (435, 77).
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating nodes.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Generated nodes with coordinates.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing nodes.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 1 drawn at (533, 212).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 2 drawn at (435, 346).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 3 drawn at (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 4 drawn at (277, 129).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 5 drawn at (435, 77).
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing ribs.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 1.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (533, 212).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (533, 212).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 2 to node 3.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 346) to (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 3.
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 4 to node 3.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (277, 129) to (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 5 to node 3.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 5 to node 2.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (435, 346).
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Setting node values.
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 1 set at (533, 212).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 2 set at (435, 346).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 3 set at (277, 294).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 4 set at (277, 129).
+2024-12-11 16:15:07 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 5 set at (435, 77).
+2024-12-11 16:15:07 [AWT-EventQueue-0] INFO  org.example.GraphView - Graph drawing completed.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:10 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:10 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:10 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:10 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:10 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.8509 ms
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:13 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:13 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:13 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:13 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:13 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.2268 ms
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.1681 ms
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:14 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.0573 ms
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.7387 ms
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.1389 ms
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.8084 ms
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.1203 ms
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:15 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.908 ms
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.6074 ms
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.7605 ms
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:16 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.4781 ms
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.8317 ms
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.6796 ms
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.1697 ms
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.6116 ms
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:17 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.7718 ms
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.8516 ms
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.1734 ms
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.5187 ms
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 5 nodes.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -1.0.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 2.
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 2
+2024-12-11 16:15:18 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.9709 ms
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphApp - Generate Graph button clicked.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Initializing GraphModel with 10 nodes and 5 loops.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate edges and loops.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate ribs.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 0 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 0 to node 2.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 0 to node 5.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 0 to node 7.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 0 to node 9.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 0 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 1 to node 8.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 2 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 2 to node 5.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 2 to node 7.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 2 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 2 to node 4.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 3 to node 4.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 4 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 4 to node 0.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 5 to node 7.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 5 to node 9.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 5 to node 1.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 5 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 6 to node 1.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 6 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 6 to node 5.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 7 to node 8.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 7 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 7 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 4.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 9.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 2.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 0.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 8 to node 5.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 9 to node 1.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added edge from node 9 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating ribs.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate loops.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 0.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 4.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 5.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 2.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Added loop to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating loops.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating edges and loops.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - GraphModel initialization complete.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphView - GraphView initialized with model containing 10 nodes.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphApp - Graph generated with 10 nodes and 5 loops.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphView - Starting to draw graph with width=784 and height=425.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Starting to generate nodes.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 1 positioned at (533, 212).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 2 positioned at (506, 294).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 3 positioned at (435, 346).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 4 positioned at (348, 346).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 5 positioned at (277, 294).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 6 positioned at (251, 212).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 7 positioned at (277, 129).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 8 positioned at (348, 77).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 9 positioned at (435, 77).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphModel - Node 10 positioned at (506, 129).
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphModel - Finished generating nodes.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Generated nodes with coordinates.
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing nodes.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 1 drawn at (533, 212).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 2 drawn at (506, 294).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 3 drawn at (435, 346).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 4 drawn at (348, 346).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 5 drawn at (277, 294).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 6 drawn at (251, 212).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 7 drawn at (277, 129).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 8 drawn at (348, 77).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 9 drawn at (435, 77).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node 10 drawn at (506, 129).
+2024-12-11 16:15:22 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing ribs.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 1 to node 4.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (533, 212) to (348, 346).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 1 to node 3.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (533, 212) to (435, 346).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 1 to node 6.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (533, 212) to (251, 212).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 1 to node 8.
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (533, 212) to (348, 77).
+2024-12-11 16:15:22 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 1 to node 10.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (533, 212) to (506, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 1 to node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (533, 212) to (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 1.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (533, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (533, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 2 to node 9.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (506, 294) to (435, 77).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 3 to node 4.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 346) to (348, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 3 to node 6.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 346) to (251, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 3 to node 8.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 346) to (348, 77).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 3 to node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 346) to (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 3 to node 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 346) to (277, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 3.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (435, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (435, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 4 to node 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (348, 346) to (277, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 5 to node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (277, 294) to (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 5 to node 1.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (277, 294) to (533, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (277, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (277, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 6 to node 8.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (251, 212) to (348, 77).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 6 to node 10.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (251, 212) to (506, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 6 to node 2.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (251, 212) to (506, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 6 to node 4.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (251, 212) to (348, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 6.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (251, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (251, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 7 to node 2.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (277, 129) to (506, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 7 to node 4.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (277, 129) to (348, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 7 to node 6.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (277, 129) to (251, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing self-loop for node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Drawing self-loop at (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Self-loop drawn at (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 8 to node 9.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (348, 77) to (435, 77).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 8 to node 4.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (348, 77) to (348, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 8 to node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (348, 77) to (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (277, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 10.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (506, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 4.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (348, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 3.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (435, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 1.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (533, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 9 to node 6.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (435, 77) to (251, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 10 to node 2.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (506, 129) to (506, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Drawing rib from node 10 to node 7.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Rib drawn from (506, 129) to (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Setting node values.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 1 set at (533, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 2 set at (506, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 3 set at (435, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 4 set at (348, 346).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 5 set at (277, 294).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 6 set at (251, 212).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 7 set at (277, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 8 set at (348, 77).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 9 set at (435, 77).
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.GraphView - Node value 10 set at (506, 129).
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphView - Graph drawing completed.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:23 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.3866 ms
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:24 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.9323 ms
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.362 ms
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.2095 ms
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:25 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.4442 ms
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.4566 ms
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.8806 ms
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.2435 ms
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.957 ms
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.1866 ms
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:26 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.8857 ms
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 1.9785 ms
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.GraphApp - Calculate Loops button clicked.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - MasonFormula initialized with 10 nodes.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting calculation of Delta.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Starting to find all self-loops.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 0 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 2 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 4 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 5 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Self-loop found at node 6 with weight 1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Completed finding self-loops. Total self-loops found: 5.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: 0.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -1.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -2.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -3.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] DEBUG org.example.MasonFormula - Updated Delta after subtracting weight 1.0: -4.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Calculation of Delta completed. Final Delta: -4.0.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.MasonFormula - Returning the loop count: 5.
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.GraphApp - Loop count calculated: 5
+2024-12-11 16:15:27 [AWT-EventQueue-0] INFO  org.example.GraphApp - Execution time: 2.2017 ms
